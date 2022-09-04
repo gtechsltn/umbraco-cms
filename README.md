@@ -11,3 +11,6 @@
 
 + **SQL Server** 2008 R2
 + **DbUp**
++ Server: DESKTOP-T24DE9U
++ User: sa
++ Pass: Abcde@12354-
