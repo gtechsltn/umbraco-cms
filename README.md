@@ -21,8 +21,7 @@
 + License MIT License
 + Package readme
 
-## Articulate's Description
-Blogging built on Umbraco - Supports all the features you'd want in a blogging platform:
++ Blogging built on Umbraco - Supports all the features you'd want in a blogging platform:
 
 + Categories & Tags
 + Themes
