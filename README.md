@@ -15,13 +15,15 @@
 + User: sa
 + Pass: Abcde@12354-
 
-# Author
+# Articulate
+
 + Author: **Shannon Deminick**
 + Package version 4.3.2
 + License MIT License
 + Package readme
++ Blogging built on Umbraco
 
-# Blogging built on Umbraco - Supports all the features you'd want in a blogging platform:
+## Features:
 
 + Categories & Tags
 + Themes
@@ -36,5 +38,10 @@
 + Customizable urls
 + Author profiles
 
-# Developer
+## Developer
 + Email: manhng83@gmail.com
+
+## References
++ https://www.nuget.org/packages/UmbracoCms/
++ https://www.nuget.org/packages/Articulate/
++ https://github.com/Shazwazza/Articulate/releases
