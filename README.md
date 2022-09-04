@@ -1,7 +1,10 @@
 # Umbraco CMS
 
 + Email: manhng83@gmail.com
++ Pass: Abcde@12354-
+
 + Email: chien672001@gmail.com
++ Pass: Abcde@12354-
 
 # DB
 
